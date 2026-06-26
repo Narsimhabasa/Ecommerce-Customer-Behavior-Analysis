@@ -48,3 +48,23 @@ Created visualizations for:
 
 ## Conclusion
 This project demonstrates how data analysis can help businesses understand customer behavior and make better business decisions.
+
+
+
+
+
+
+
+## 📷 Project Visualizations
+
+### Total Spend by City
+![Total Spend by City](images/Screenshot 2026-06-26 150932.png)
+
+### Average Spend by City
+![Average Spend by City](images/Screenshot 2026-06-26 150941.png)
+
+### Average Spend by Membership Type
+![Average Spend by Membership Type](images/Screenshot 2026-06-26 150956.png)
+
+### Correlation Heatmap
+![Correlation Heatmap](images/Screenshot 2026-06-26 151020.png)
